@@ -23,7 +23,7 @@ Whether you're a seasoned practitioner or a curious beginner, Herbi Cure is here
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="20"> **JavaScript**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20"> **Python**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="20"> **Scikit-Learn**
-- <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/logo.png" width="20"> **LangChain**
+- <img src="[https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/logo.png](https://www.bing.com/images/search?view=detailV2&ccid=MqiaQ3yd&id=D521141FF054D48A5544110D371B79C0FF08DBE0&thid=OIP.MqiaQ3ydE_evyiSXtSR8pgHaC2&mediaurl=https%3a%2f%2fdeepsense.ai%2fwp-content%2fuploads%2f2023%2f10%2fLangChain-announces-partnership-with-deepsense.jpeg.pagespeed.ce.MqiaQ3ydE_.jpg&exph=738&expw=1920&q=langchsin+logo+link&simid=608023613034994025&FORM=IRPRST&ck=1C24A62ED26AFCD10846941044D86B98&selectedIndex=0&itb=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)" width="20"> **LangChain**
 - <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/BeautifulSoup_Logo.svg" width="20"> **BeautifulSoup**
 
 ## Deployment
